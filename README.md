@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate software development student from India..</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.webp">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.webp">
 
 
 
