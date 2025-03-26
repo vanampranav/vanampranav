@@ -5,7 +5,7 @@
 
 
 
--🔭 I’m currently working on honing my skills to the fullest.<br>-🌱 I’m currently learning and Full-stack web and Machine learning.<br>-🤝 I’m looking for help with Data Science and DSA.<br>-👨‍💻 All of my projects are available at https://github.com/vanampranav<br>-📝 My LinkedIn https://www.linkedin.com/in/pranav-vanam/<br>-💬 You can talk to me about computer science, startech, anime stuff etc.<br>-📫 How to reach me vanam.pranav03@gmail.com<br><br><br><br><br>
+- 🔭 I’m currently working on honing my skills to the fullest.<br>-🌱 I’m currently learning and Full-stack web and Machine learning.<br>-🤝 I’m looking for help with Data Science and DSA.<br>-👨‍💻 All of my projects are available at https://github.com/vanampranav<br>-📝 My LinkedIn https://www.linkedin.com/in/pranav-vanam/<br>-💬 You can talk to me about computer science, startech, anime stuff etc.<br>-📫 How to reach me vanam.pranav03@gmail.com<br><br><br><br><br>
 
 
 ## 🌐 Socials:
